@@ -11,7 +11,7 @@
 
 💬 Ask me about HTML, Csss JavaScript, Node.js, Express.js, MongoDB, MySql etc.
 
-⚡ Fun fact: My favorite word is "Actually" according to my friends.
+⚡ Fun fact: The only thing I did as a kid that I still do as an adult is watch cartoons.
 
 ## Contact
 <a href="mailto:paswanravindra209@gmail.com">
