@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/ravindrapaswan2762/ravindrapaswan2762/main/github-header-image.png"/><br><br>
+<img align="center" src="https://raw.githubusercontent.com/ravindrapaswan2762/ravindrapaswan2762/main/header.jpg"/><br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&size=30&width=700&lines=Hi+There!+👋+I'm+Ravindra+Paswan!;A+Passionate+Software+Developer+From+India!)](https://git.io/typing-svg)
 
