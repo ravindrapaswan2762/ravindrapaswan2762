@@ -3,15 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&size=30&width=700&lines=Hi+There!+👋+I'm+Ravindra+Paswan!;A+Passionate+Software+Developer+From+India!)](https://git.io/typing-svg)
 
 ##
-📱 Software Engineer!
+📱 # Software Engineer
+👋 Hi there! Welcome to my GitHub profile!
 
-🔭 I’m currently working in WES Consultancy and Services Pvt. Ltd.
+🚀 # About Me
+🔭 Currently Working At: WES Consultancy and Services Pvt. Ltd.
+🌱 Learning Focus: Angular.js Framework
+💻 Expertise:
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Databases: MongoDB, MySQL
+💬 Ask Me About
+I’m always happy to share my knowledge! Feel free to ask me about:
 
-🌱 I’m currently learning Angular.js Framework.
-
-💬 Ask me about HTML, Csss JavaScript, Node.js, Express.js, MongoDB, MySql etc.
-
-⚡ Fun fact: The only thing I did as a kid that I still do as an adult is watch cartoons.
+Web development: Frontend and Backend
+Full-stack development projects
+Tips for improving code structure or learning new frameworks
+🌟 Fun Fact
+The only thing I did as a kid that I still do as an adult is watch cartoons! 🎥
 
 ## Contact
 <a href="mailto:paswanravindra209@gmail.com">
