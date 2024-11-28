@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&size=30&width=700&lines=Hi+There!+👋+I'm+Ravindra+Paswan!;A+Passionate+Software+Developer+From+India!)](https://git.io/typing-svg)
 
 ##
-📱 Full-Stack Web Developer !
+📱 Software Engineer!
 
-🔭 I’m currently working on  IMBD clone web application.
+🔭 I’m currently working in WES Consultancy and Services Pvt. Ltd.
 
-🌱 I’m currently learning React.js Framework.
+🌱 I’m currently learning Angular.js Framework.
 
 💬 Ask me about HTML, Csss JavaScript, Node.js, Express.js, MongoDB, MySql etc.
 
