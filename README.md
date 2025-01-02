@@ -10,7 +10,7 @@
 
 ### 🚀 About Me  
 - 🔭 **Currently Working At:** WES Consultancy and Services Pvt. Ltd.  
-- 🌱 **Learning Focus:** Angular.js Framework  
+- 🌱 **Building:** Custom Email Builder React+vite library. 
 - 💻 **Expertise:**  
   - **Frontend:** HTML, CSS, JavaScript  
   - **Backend:** Node.js, Express.js  
