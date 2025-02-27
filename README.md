@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 **Currently Working At:** WES Consultancy and Services Pvt. Ltd.  
+- 🔭 **Currently Working At:** Atmik Bharat Industries Pvt. Ltd.  
 - 🌱 **Building:** Custom Email Builder React+vite library. 
 - 💻 **Expertise:**  
   - **Frontend:** HTML, CSS, JavaScript  
