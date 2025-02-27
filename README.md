@@ -12,7 +12,7 @@
 - 🔭 **Currently Working At:** Atmik Bharat Industries Pvt. Ltd.  
 - 🌱 **Building:** Custom Email Builder React+vite library. 
 - 💻 **Expertise:**  
-  - **Frontend:** HTML, CSS, JavaScript  
+  - **Frontend:** HTML, CSS, JavaScript, React.js 
   - **Backend:** Node.js, Express.js  
   - **Databases:** MongoDB, MySQL  
 
