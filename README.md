@@ -1,87 +1,191 @@
-<img align="center" src="https://raw.githubusercontent.com/ravindrapaswan2762/ravindrapaswan2762/main/header.jpg"/><br><br>
+<!-- GitHub profile README for ravindrapaswan2762 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&size=30&width=700&lines=Hi+There!+👋+I'm+Ravindra+Paswan!;A+Passionate+Software+Developer+From+India!)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ravindrapaswan2762/ravindrapaswan2762/main/header.jpg" width="100%" alt="Ravindra Paswan — Software Engineer" />
 
-# 📱 Software Engineer  
+  <h1>Hi, I'm Ravindra Paswan 👋</h1>
+  <h3>Software Engineer · Full Stack &amp; Flutter Developer</h3>
 
-👋 **Hi there! Welcome to my GitHub profile!**  
+  <p>Building web and mobile products — from database design to production.</p>
 
----
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1200&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=540&amp;height=45&amp;lines=Scalable+SaaS+platforms;Cross-platform+Flutter+applications;Real-time+systems+and+REST+APIs" alt="Scalable SaaS platforms, Flutter applications, and real-time systems" />
+  </p>
 
-### 🚀 About Me  
-- 🔭 **Currently Working At:** Atmik Bharat Industries Pvt. Ltd.  
-- 🌱 **Building:** Custom Email Builder React+vite library. 
-- 💻 **Expertise:**  
-  - **Frontend:** HTML, CSS, JavaScript, React.js 
-  - **Backend:** Node.js, Express.js  
-  - **Databases:** MongoDB, MySQL  
+  <p>
+    <a href="https://ravindrapaswan2762.github.io/Portfolio-Website/">
+      <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/ravindrapaswan/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" />
+    </a>
+    <a href="mailto:ravindra.codes@gmail.com">
+      <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ravindra" />
+    </a>
+    <a href="https://leetcode.com/ravindrapaswan/">
+      <img src="https://img.shields.io/badge/LeetCode-334155?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" alt="View my LeetCode profile" />
+    </a>
+  </p>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/Open_to-MERN_Developer_Roles-7C3AED?style=flat-square&amp;labelColor=1E293B" alt="Open to MERN developer roles" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=ravindrapaswan2762&amp;label=Profile+views&amp;color=7c3aed&amp;style=flat-square" alt="Profile views" />
+  </p>
 
-### 💬 Ask Me About  
-I’m always happy to share my knowledge! Feel free to ask me about:  
-- Web development: Frontend and Backend  
-- Full-stack development projects  
-- Tips for improving code structure or learning new frameworks  
+  <p>
+    <a href="#about-me">About</a> ·
+    <a href="#featured-projects">Projects</a> ·
+    <a href="#tech-stack">Tech Stack</a> ·
+    <a href="#experience">Experience</a> ·
+    <a href="#lets-connect">Contact</a>
+  </p>
+</div>
 
----
+## About Me
 
-### 🌟 Fun Fact  
-The only thing I did as a kid that I still do as an adult is **watch cartoons**! 🎥  
+I'm a **Software Engineer at Atmik Bharat Industries Pvt. Ltd., Bhilai**, working across **Flutter, React, Node.js, and PostgreSQL** to build SaaS platforms and business applications.
 
+My work spans database design, REST APIs, authentication, real-time communication, and responsive interfaces. I enjoy connecting these pieces into products that are clear to use and practical to maintain.
 
-## Contact
-<a href="mailto:paswanravindra209@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-</a>
+- **Building:** Full-stack SaaS platforms and cross-platform applications.
+- **Exploring:** Redis, BullMQ, and scalable backend architecture.
+- **Based in:** Raigarh, India.
+- **Open to:** MERN Stack Developer opportunities worldwide.
 
-<a href="https://www.linkedin.com/in/ravindra-paswan-34420819b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-</a>
+## Featured Projects
 
-<a href="https://twitter.com/Ravindr12184168">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Commerce &amp; Logistics SaaS</h3>
+      <p>A multi-seller platform connecting commerce operations with inventory and logistics.</p>
+      <ul>
+        <li>Product, inventory, and order management.</li>
+        <li>Shipment tracking and returns workflows.</li>
+        <li>Responsive dashboards built with Flutter Web.</li>
+      </ul>
+      <p>
+        <code>Flutter</code> <code>Node.js</code> <code>PostgreSQL</code><br />
+        <code>Prisma</code> <code>Redis</code> <code>BullMQ</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · SaaS Chat Widget Platform</h3>
+      <p>A configurable chat platform for embedding real-time conversations into websites.</p>
+      <ul>
+        <li>Create and customize embeddable chat widgets.</li>
+        <li>Real-time messaging powered by Socket.IO.</li>
+        <li>Serverless backend architecture.</li>
+      </ul>
+      <p>
+        <code>Flutter</code> <code>Node.js</code> <code>Socket.IO</code><br />
+        <code>MongoDB</code> <code>Serverless</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Government Tax Calculation App</h3>
+      <p>A tax computation application developed for the Chhattisgarh government.</p>
+      <ul>
+        <li>Cross-platform experience for Android and iOS.</li>
+        <li>Circle-wise categorization and real-time tracking.</li>
+        <li>Backend deployment on AWS EC2.</li>
+      </ul>
+      <p>
+        <code>Flutter</code> <code>Node.js</code> <code>Express.js</code><br />
+        <code>MongoDB</code> <code>AWS EC2</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · No-Code Email Builder</h3>
+      <p>A visual email builder and campaign platform for creating and sending email campaigns.</p>
+      <ul>
+        <li>Drag-and-drop editing with live preview.</li>
+        <li>Reusable templates with versioning.</li>
+        <li>Campaign management and bulk email dispatch.</li>
+      </ul>
+      <p>
+        <code>React</code> <code>Vite</code> <code>Node.js</code><br />
+        <code>MongoDB</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<a href="https://leetcode.com/ravindra_000/">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"/>
-</a>
+## Tech Stack
 
-<a href="https://ravindrapaswan2762.github.io/Portfolio-Website/">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/>
-</a>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=F89820) ![Dart](https://img.shields.io/badge/Dart-1E293B?style=flat-square&logo=dart&logoColor=54C5F8) |
+| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-1E293B?style=flat-square&logo=flutter&logoColor=54C5F8) ![Redux](https://img.shields.io/badge/Redux-1E293B?style=flat-square&logo=redux&logoColor=B794F4) ![HTML5](https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1E293B?style=flat-square) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-1E293B?style=flat-square&logo=socketdotio&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square) |
+| **Databases & ORM** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=7BA7D7) ![MongoDB](https://img.shields.io/badge/MongoDB-1E293B?style=flat-square&logo=mongodb&logoColor=47A248) ![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=79B5D5) ![Prisma](https://img.shields.io/badge/Prisma-1E293B?style=flat-square&logo=prisma&logoColor=white) |
+| **Cloud & Build Tools** | ![AWS](https://img.shields.io/badge/AWS-1E293B?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-1E293B?style=flat-square&logo=firebase&logoColor=FFC400) ![Vite](https://img.shields.io/badge/Vite-1E293B?style=flat-square&logo=vite&logoColor=A78BFA) |
 
-<a href="https://t.me/@ionman000">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/>
-</a>
+**Currently exploring:** `Redis` · `BullMQ` · `Background jobs` · `Scalable backend architecture`
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
+## Experience
 
-<span>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React Js-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</span>
+### Software Engineer
 
-## 🐍 My Contributions 🐍
-![Snake animation](https://github.com/ravindrapaswan2762/ravindrapaswan2762/blob/output/github-contribution-grid-snake.svg)
+**Atmik Bharat Industries Pvt. Ltd.** · Bhilai  
+**December 2024 – Present**
 
-## GIT STATS
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ravindrapaswan2762&theme=dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindrapaswan2762&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindrapaswan2762&theme=dark&hide_progress=true&)
+- Build Flutter applications and full-stack products using React, Node.js, Express, MongoDB, and PostgreSQL.
+- Design REST APIs, authentication flows, and real-time features that connect application interfaces with backend services.
+- Contribute to database design, application architecture, debugging, and AWS deployments.
 
+### Full Stack Developer
 
+**WES Consultancy and Services Pvt. Ltd.**  
+**June 2024 – November 2024**
 
+- Built and maintained MERN applications for client projects.
+- Developed responsive interfaces and REST API integrations in collaboration with cross-functional teams.
+- Worked with the team to deliver application features on schedule.
 
+## Education & Training
+
+| Qualification | Institution / Provider | Details |
+| :--- | :--- | :--- |
+| **B.Tech in Computer Science** | CSVTU, Bhilai | CGPA: **8.1** |
+| **Full Stack MERN Web Developer** | Coding Ninjas | December 2022 – December 2023 |
+
+**Certifications:** React JS · Back End Development · Front End Development · DSA in Java · Core Java · Android Development
+
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/ravindrapaswan2762">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=ravindrapaswan2762&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363D&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=C9D1D9&amp;card_width=495&amp;custom_title=GitHub%20Overview" alt="Ravindra's GitHub statistics" />
+  </a>
+  <a href="https://github.com/ravindrapaswan2762?tab=overview">
+    <img width="49%" src="https://streak-stats.demolab.com?user=ravindrapaswan2762&amp;theme=dark&amp;hide_border=false&amp;border_radius=12&amp;border=30363D&amp;background=0D1117&amp;stroke=30363D&amp;ring=A78BFA&amp;fire=A78BFA&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=A78BFA&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;card_width=495&amp;card_height=195" alt="Ravindra's GitHub contribution streak" />
+  </a>
+</p>
+
+<details>
+  <summary><b>Most used languages</b></summary>
+  <br />
+  <p align="center">
+    <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ravindrapaswan2762&amp;layout=compact&amp;langs_count=8&amp;hide_border=false&amp;border_radius=12&amp;border_color=30363D&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;card_width=420" alt="Most used languages across public repositories" />
+  </p>
+</details>
+
+## Let's Connect
+
+I'm open to **MERN Stack Developer opportunities** and conversations about SaaS products, Flutter applications, and backend engineering.
+
+<p align="center">
+  <a href="mailto:ravindra.codes@gmail.com"><strong>Email me</strong></a> ·
+  <a href="https://www.linkedin.com/in/ravindrapaswan/"><strong>LinkedIn</strong></a> ·
+  <a href="https://ravindrapaswan2762.github.io/Portfolio-Website/"><strong>Portfolio</strong></a> ·
+  <a href="https://twitter.com/Ravindr12184168">X / Twitter</a> ·
+  <a href="https://t.me/ionman000">Telegram</a>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting. Explore my work, and let's build something useful.</sub>
+</p>
