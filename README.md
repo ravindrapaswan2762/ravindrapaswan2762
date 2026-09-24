@@ -223,7 +223,7 @@ Open to: Flutter and MERN Stack Developer opportunities worldwide.
     <td width="10000" valign="top">
       <p>
         <img src="https://img.shields.io/badge/PREVIOUS_ROLE-475569?style=flat-square" alt="Previous role" />
-        &nbsp; <code>June 2024 – November 2024</code>
+        &nbsp; <code>Oct 2023 – November 2024</code>
       </p>
       <h3>Full Stack Developer</h3>
       <p><strong>WES Consultancy and Services Pvt. Ltd.</strong></p>
